@@ -2,7 +2,7 @@
 
 ## 🔄 Advanced Sorting Visualizer
 
-<p>This is an advanced web-based sorting algorithm visualizer that allows you to see how different sorting algorithms work in real-time. It provides a clean, professional interface with a variety of features, including different array presets, performance metrics, and a dark mode.</p>
+<p>This is an advanced web-based sorting algorithm visualizer that allows you to see how different sorting algorithms work in real-time. It provides a clean, professional interface with a variety of features, including different array presets, performance metrics, and a dark mode.</p> <br> Live at: <a href="https://akanksha-916.github.io/SortingVisualizer/">https://akanksha-916.github.io/SortingVisualizer/</a></p>
 
 <hr>
 
